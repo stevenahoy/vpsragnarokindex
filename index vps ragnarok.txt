@@ -1,0 +1,110 @@
+<title>VPS RAGNAROK</title>
+
+<!-- CSS goes in the document HEAD or added to your external stylesheet -->
+<style type="text/css">
+table.hovertable {
+	font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	color:#333333;
+	border-width: 1px;
+	border-color: #999999;
+	border-collapse: collapse;
+}
+table.hovertable th {
+	background-color:#c3dde0;
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #a9c6c9;
+}
+table.hovertable tr {
+	background-color:#d4e3e5;
+}
+table.hovertable td {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #a9c6c9;
+}
+</style>
+<h3 class="rtecenter">
+	<a href="http://vpsragnarok.esy.es/billing/billing/index.php/order"><img alt="" src="http://www.vpstermurah.com/sites/default/files/buy%20vps%20forex.png" style="width: 200px; height: 109px;" /></a> <a href="http://vpsragnarok.esy.es/billing/billing/index.php/order"><img alt="" src="http://www.vpstermurah.com/sites/default/files/vps%20premium.png" style="width: 200px; height: 109px;" /></a><a href="http://vpsragnarok.esy.es/billing/billing/index.php/order"><img alt="" src="http://www.vpstermurah.com/sites/default/files/vps%20linux.png" style="width: 200px; height: 109px;" /></a></h3>
+<h3> VPS Windows Premium </h3>
+<!-- Table goes in the document BODY -->
+<table class="hovertable">
+<td style="background-color: rgb(255, 153, 0);"><span style="color:#ffffff;">
+ NAMA PAKET</td>
+<td style="background-color: rgb(255, 153, 0);"><span style="color:#ffffff;"> RAM GUARANTED</td>
+<td style="background-color: rgb(255, 153, 0);"><span style="color:#ffffff;"> RAM + SWAP MEMORY</td>
+<td style="background-color: rgb(255, 153, 0);"><span style="color:#ffffff;"> HDD SPACE</td>
+<td style="background-color: rgb(255, 153, 0);"><span style="color:#ffffff;"> PER 1 BULAN</td>
+<td style="background-color: rgb(255, 153, 0);"><span style="color:#ffffff;"> PER 3 BULAN</td>
+<td style="background-color: rgb(255, 153, 0);"><span style="color:#ffffff;"> PER 6 BULAN</td>
+<td style="background-color: rgb(255, 153, 0);"><span style="color:#ffffff;"> PER 12 BULAN</td>
+</tr><tr><td style="background-color: rgb(255, 153, 0);">
+			<strong><span style="color:#ffffff;">Basic Win Premium</span></strong>	
+<td onmouseover="this.style.backgroundColor='#ffff66';" onmouseout="this.style.backgroundColor='#d4e3e5';"> 256 MB</td>
+<td onmouseover="this.style.backgroundColor='#ffff66';" onmouseout="this.style.backgroundColor='#d4e3e5';"> 512 MB</td>
+<td onmouseover="this.style.backgroundColor='#ffff66';" onmouseout="this.style.backgroundColor='#d4e3e5';"> 25 GB</td>
+<td onmouseover="this.style.backgroundColor='#ffff66';" onmouseout="this.style.backgroundColor='#d4e3e5';"> 150.000</td>
+<td onmouseover="this.style.backgroundColor='#ffff66';" onmouseout="this.style.backgroundColor='#d4e3e5';"> 370.000</td>
+<td onmouseover="this.style.backgroundColor='#ffff66';" onmouseout="this.style.backgroundColor='#d4e3e5';"> 600.000</td>
+<td onmouseover="this.style.backgroundColor='#ffff66';" onmouseout="this.style.backgroundColor='#d4e3e5';"> 1.140.000</td>
+</tr><tr><td style="background-color: rgb(255, 153, 0);">
+				<strong><span style="color:#ffffff;">Silver </span></strong><strong><span style="color:#ffffff;">Win Premium</span></strong></td>
+<td onmouseover="this.style.backgroundColor='#ffff66';" onmouseout="this.style.backgroundColor='#d4e3e5';">512 MB</td>
+<td onmouseover="this.style.backgroundColor='#ffff66';" onmouseout="this.style.backgroundColor='#d4e3e5';"> 1 GB</td>
+<td onmouseover="this.style.backgroundColor='#ffff66';" onmouseout="this.style.backgroundColor='#d4e3e5';"> 50 GB</td>
+<td onmouseover="this.style.backgroundColor='#ffff66';" onmouseout="this.style.backgroundColor='#d4e3e5';"> 210.000</td>
+<td onmouseover="this.style.backgroundColor='#ffff66';" onmouseout="this.style.backgroundColor='#d4e3e5';"> 500.000</td>
+<td onmouseover="this.style.backgroundColor='#ffff66';" onmouseout="this.style.backgroundColor='#d4e3e5';"> 900.000</td>
+<td onmouseover="this.style.backgroundColor='#ffff66';" onmouseout="this.style.backgroundColor='#d4e3e5';"> 1.740.000</td>
+</tr><tr><td style="background-color: rgb(255, 153, 0);">
+				<strong><span style="color:#ffffff;">Gold </span></strong><strong><span style="color:#ffffff;">Win Premium</span></strong></td>
+<td onmouseover="this.style.backgroundColor='#ffff66';" onmouseout="this.style.backgroundColor='#d4e3e5';">
+				1 GB</td>
+<td onmouseover="this.style.backgroundColor='#ffff66';" onmouseout="this.style.backgroundColor='#d4e3e5';">
+				2 GB</td>
+<td onmouseover="this.style.backgroundColor='#ffff66';" onmouseout="this.style.backgroundColor='#d4e3e5';">
+				75 GB</td>
+<td onmouseover="this.style.backgroundColor='#ffff66';" onmouseout="this.style.backgroundColor='#d4e3e5';">
+				260.000</td>
+<td onmouseover="this.style.backgroundColor='#ffff66';" onmouseout="this.style.backgroundColor='#d4e3e5';">
+				640.000</td>
+<td onmouseover="this.style.backgroundColor='#ffff66';" onmouseout="this.style.backgroundColor='#d4e3e5';">
+				1.140.000</td>
+<td onmouseover="this.style.backgroundColor='#ffff66';" onmouseout="this.style.backgroundColor='#d4e3e5';">
+				2.240.000</td>
+</tr><tr><td style="background-color: rgb(255, 153, 0);">
+				<strong><span style="color:#ffffff;">Platinum </span></strong><strong><span style="color:#ffffff;">Win Premium</span></strong></td>
+<td onmouseover="this.style.backgroundColor='#ffff66';" onmouseout="this.style.backgroundColor='#d4e3e5';">
+				2 GB</td>
+<td onmouseover="this.style.backgroundColor='#ffff66';" onmouseout="this.style.backgroundColor='#d4e3e5';">
+				4 GB</td>
+<td onmouseover="this.style.backgroundColor='#ffff66';" onmouseout="this.style.backgroundColor='#d4e3e5';">
+				100 GB</td>
+<td onmouseover="this.style.backgroundColor='#ffff66';" onmouseout="this.style.backgroundColor='#d4e3e5';">
+				410.000</td>
+<td onmouseover="this.style.backgroundColor='#ffff66';" onmouseout="this.style.backgroundColor='#d4e3e5';">
+				1.100.000</td>
+<td onmouseover="this.style.backgroundColor='#ffff66';" onmouseout="this.style.backgroundColor='#d4e3e5';">
+				1.900.000</td>
+<td onmouseover="this.style.backgroundColor='#ffff66';" onmouseout="this.style.backgroundColor='#d4e3e5';">
+				3.740.000</td>
+</tr><tr><td style="background-color: rgb(255, 153, 0);">
+				<strong><span style="color:#ffffff;">VIP </span></strong><strong><span style="color:#ffffff;">Win Premium</span></strong></td>
+<td onmouseover="this.style.backgroundColor='#ffff66';" onmouseout="this.style.backgroundColor='#d4e3e5';">
+				4 GB</td>
+<td onmouseover="this.style.backgroundColor='#ffff66';" onmouseout="this.style.backgroundColor='#d4e3e5';">
+				8 GB</td>
+<td onmouseover="this.style.backgroundColor='#ffff66';" onmouseout="this.style.backgroundColor='#d4e3e5';">
+				100 GB</td>
+<td onmouseover="this.style.backgroundColor='#ffff66';" onmouseout="this.style.backgroundColor='#d4e3e5';">
+				760.000</td>
+<td onmouseover="this.style.backgroundColor='#ffff66';" onmouseout="this.style.backgroundColor='#d4e3e5';">
+				2.140.000</td>
+<td onmouseover="this.style.backgroundColor='#ffff66';" onmouseout="this.style.backgroundColor='#d4e3e5';">
+				3.640.000</td>
+<td onmouseover="this.style.backgroundColor='#ffff66';" onmouseout="this.style.backgroundColor='#d4e3e5';">
+				7.240.000</td>
+</table>
